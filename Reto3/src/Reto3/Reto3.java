@@ -17,8 +17,6 @@ public class Reto3 {
 		if (fecha2.isBefore(fecha1)) {
 			fecha2 = Funciones.dimeFecha("Escribe otra fecha que sea mayor que la primera", sc);
 		}
-		System.out.println(fecha1);
-		System.out.println(fecha2);
 
 	}
 	
